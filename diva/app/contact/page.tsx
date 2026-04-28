@@ -38,10 +38,10 @@ export default function ContactPage() {
             <p className="font-sans text-ink/70">
               Email:{" "}
               <a
-                href="mailto:teamdiva@placeholder.com"
+                href="mailto:Teamdiva2026@gmail.com"
                 className="text-primary hover:text-secondary font-medium transition-colors"
               >
-                teamdiva@placeholder.com
+                Teamdiva2026@gmail.com
               </a>
             </p>
             <p className="font-sans text-sm text-ink/45">
