@@ -33,7 +33,7 @@ export async function submitContact(
   try {
     await resend.emails.send({
       // TODO: Replace from address with a verified Resend domain once set up
-      from: "onboarding@resend.dev",
+      from: "contact@divahealth.org",
       to: process.env.CONTACT_EMAIL ?? "teamdiva@example.com",
       subject: `New message from ${name} — D.I.V.A Contact Form`,
       text: [
