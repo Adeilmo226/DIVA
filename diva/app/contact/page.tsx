@@ -45,7 +45,7 @@ export default function ContactPage() {
               </a>
             </p>
             <p className="font-sans text-sm text-ink/45">
-              Follow our journey — social links coming soon.
+              Follow our journey.
             </p>
           </div>
         </div>
